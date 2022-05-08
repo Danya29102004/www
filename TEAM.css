@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(117, 192, 204);
+    color: #000;
+
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a {
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: rgb(31, 2, 250);
+}
+
+.avatar {
+    width: 300px;
+    border-radius: 30px;
+    box-shadow: 4px 4px 14px black;
+}
